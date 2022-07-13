@@ -29,6 +29,7 @@ public class Intro extends JPanel implements Runnable{
 			Thread.sleep(wait);
 			window.dispose();
 			//TODO create Menu class and load here
+			//test2
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
